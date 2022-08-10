@@ -228,6 +228,6 @@ begin
 end
 go
 
--- Listar Escuelas
+-- Listar Alumnos
 exec spListarAlumno
 go
